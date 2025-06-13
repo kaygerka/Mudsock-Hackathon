@@ -1,5 +1,9 @@
 # Mudsock-Hackathon
 For a Hackathon, we designed to help users plan and manage a garden by letting them add plants, set watering schedules, and visually organize their garden layout.
+# Creators
+Aparupa Brahma
+Rachel Iskander
+Kayli Gerka
 
 # How It Works
 User visits the front page and clicks "Get Started."
