@@ -1,0 +1,38 @@
+h1{
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    font-family: "Gochi Hand", cursive;
+    margin-bottom: -40px;
+    /* text-shadow: 2px 2px 6px #000000; */
+    /* text-shadow: 2px 2px 6px #2a7218; */
+}
+body{
+    /* background-color: #426D38;     */
+    background-color: #86d486;
+}
+.frontPageIcon{
+    width:400px;
+    height:450px;
+}
+.startButton{
+    background-color: #0197f6;
+    width:300px;
+    height:100px;
+    color:#ffffff;
+    font-size:35px;
+    font-family: "Gochi Hand", cursive;
+    letter-spacing:2px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    border:5px solid #ffffff;
+    border-radius: 50px;
+    margin-left: 8px;
+}
+.startButton:hover{
+    background-color:#057ac4;
+}
+.startButton:active{
+    background-color:#057ac4;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    transform: translateY(4px);
+}

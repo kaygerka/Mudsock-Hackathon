@@ -1,0 +1,60 @@
+body {
+    /* background-color: #62BD69; */
+    background-color: #86d486;
+}
+
+.curr-plants-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+
+.curr-plants-header {
+    font-family: "Gochi Hand", cursive;
+    font-size: 50px;
+    border-bottom: 5px solid black;
+    border-radius: 5px;
+}
+
+.add-btn {
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 2px solid white;
+    background-color: #68b554;
+    font-family: "Gochi Hand", cursive;
+    font-size: 40px;
+}
+
+.add-btn:hover {
+    background-color: #30b00f;
+}
+
+.grid-box-div {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-spacing: 20px;
+}
+
+th, td {
+    border: 5px solid #0689aa;
+    border-radius: 5px;
+    height: 250px;
+    width: 250px;
+    background-color: #75c5d9;
+}
+
+select {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #0689aa;
+    text-align: center;
+    color: white;
+}

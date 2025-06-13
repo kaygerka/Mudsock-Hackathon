@@ -1,0 +1,59 @@
+.form-div {
+    display: flex;
+    justify-content: center;
+}
+
+
+.waterInput{
+    display: inline-block;
+}
+input{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    font-family: "Gochi Hand", cursive;
+    margin-left: 600px;
+}
+.submit{
+    padding: 15px 50px;
+    margin-top: 20px;
+    margin-left: 600px;
+    /* background-color: #426D38; */
+    background-color: #75c5d9;
+    border: 5px solid #0689aa;
+    font-family: "Gochi Hand", cursive;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.submit:hover{
+    /* background-color:#325b28; */
+    background-color: #46b9d6;
+}
+
+.plant {
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.plant:hover{
+    filter: brightness(80%);
+}
+.plantImage{
+    width: 120px;
+    height: 120px;
+}
+
+
+body{
+    background-color: #86d486
+}
+h1{
+    font-family: "Gochi Hand", cursive;
+    margin-left: 600px;
+}
+h2{
+    font-family: "Gochi Hand", cursive;
+    /* margin-left: 600px; */
+}
